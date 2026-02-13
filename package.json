@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "postcss ./src/css/tailwind.css -o ./public/build/tailwind.css --watch",
-     "build": "postcss ./src/css/tailwind.css -o ./public/build/tailwind.css --minify"
+    "dev": "postcss ./src/css/tailwind.css -o ./public/build/tailwind.css --watch"
   },
   "keywords": [],
   "author": "",
